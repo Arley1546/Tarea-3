@@ -41,6 +41,9 @@ POTENCIA EN UN CIRCUITO EN SERIE
 ![image](https://user-images.githubusercontent.com/84790127/171794013-27fd267e-a3ba-45b4-a08f-3df4325be506.png)
 
 
+EJERCICIOS 
+
+
 CONCLUISIONES 
 
 Circuito en serie: La corriente que fluye por el circuito es la misma en el circuito completo y en cada dispositivo. El voltaje en cada dispositivo será distinto si la resistencia de estos es distinta. La suma de los voltajes de cada dispositivo es igual al voltaje de la fuente de alimentación.
