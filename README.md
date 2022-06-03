@@ -174,7 +174,10 @@ CONCLUISIONES
 
 Circuito en serie: La corriente que fluye por el circuito es la misma en el circuito completo y en cada dispositivo. El voltaje en cada dispositivo será distinto si la resistencia de estos es distinta. La suma de los voltajes de cada dispositivo es igual al voltaje de la fuente de alimentación.
 La suma de las resistencias del circuito, es igual a la resistencia total del circuito.
-
+- La corriente que fluye por el circuito es la misma en el circuito completo y en cada dispositivo.
+- El voltaje en cada dispositivo será distinto si la resistencia de estos es distinta.
+- La suma de los voltajes de cada dispositivo, es igual al voltaje de la fuente de alimentación.
+- La suma de las resistencias del circuito, es igual a la resistencia total del circuito.
 
 BIBLIOGRAFIA 
 
