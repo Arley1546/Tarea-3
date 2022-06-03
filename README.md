@@ -224,6 +224,7 @@ DIVISORES DE CORRIENTE
 EJERCICIOS 
 
 
+
 CONCLUISONES 
 
 La conclusión es que la intensidad que cae sobre los elementos de consumo en el circuito paralelo es la misma en todos los elementos, pero además le cae la máxima tensión que puede entregar la fuente. 
