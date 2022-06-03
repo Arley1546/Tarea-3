@@ -40,6 +40,11 @@ POTENCIA EN UN CIRCUITO EN SERIE
 
 ![image](https://user-images.githubusercontent.com/84790127/171794013-27fd267e-a3ba-45b4-a08f-3df4325be506.png)
 
+FORMULAS 
+
+![image](https://user-images.githubusercontent.com/84790127/171804709-228ea245-74c6-4f9b-bba7-e2d47565209d.png)
+
+![image](https://user-images.githubusercontent.com/84790127/171804613-f5ad58f3-62bc-4291-83ec-13ae5b9f75ee.png)
 
 EJERCICIOS 
 
@@ -52,11 +57,13 @@ EJERCICIOS
 4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68. 
                                          R12+R8+R6
 Corriente en un circuito en serie
+
 6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120Ω? 
                                         I=V/R→I=12/120→100mA
 
 8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
 Podemos conectar la fuente de voltaje colocan el lado positivo en la punta 5 y el lado negativo en la punta 6, el amperímetro puede conectarse el lado positivo directamente el amperímetro y el lado negativo para dar voltaje a la resistencia, R2, R3, R9, R4 tienen la misma corriente.
+
 ![image](https://user-images.githubusercontent.com/84790127/171795292-ddbac5f2-a1d1-44bd-ae94-7489d7b9c06d.png)
 
 Resistencia total en serie
@@ -67,7 +74,9 @@ Resistencia total en serie
 ![image](https://user-images.githubusercontent.com/84790127/171795427-eabc0041-d757-40b1-a2a8-b235017bf3af.png)
 
 a)Rt=1kΩ+5.6kΩ+2.2kΩ→Rt=8.8kΩ
+
 b)Rt=4.7Ω+10Ω+12Ω+1Ω→Rt=27.7Ω
+
 c)Rt=1000kΩ+560kΩ+5600kΩ+680kΩ+10000kΩ→Rt=17.8MΩ
 
 14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
@@ -92,9 +101,13 @@ Aplicación de la ley de Ohm
 ![image](https://user-images.githubusercontent.com/84790127/171795971-428dce74-f9db-4f04-9dab-d7ba44d34b10.png)
 
 A)I=V/R→I=5.5/8800→0.625mA→V1=(2200*0.625mA)=1.375v
+
 V2=(5600*0.625mA)=3.5v→V3=(1000*0.625mA)=0.625
+
 B) I=V/R→I=16/3760000→4.25μA→V1=(1〖×10〗^6*4.25〖×10〗^(-6) )=4.25v
+
 V2=(2.2〖×10〗^6*4.25〖×10〗^(-6) )=9.35v
+
 V3=(560〖×10〗^3*4.25〖×10〗^(-6) )=2.38v
 
 22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
@@ -104,13 +117,18 @@ V3=(560〖×10〗^3*4.25〖×10〗^(-6) )=2.38v
 
 
 24. Determine V R1, R2 y R3 en la figura 
+25. 
 ![image](https://user-images.githubusercontent.com/84790127/171796284-6a2c431c-c0a4-41c0-be2e-4257c6b70c78.png)
  
 
 VR1=(12.3mA*82)=1v
+
 12v=1v+Vr2+2.21
+
 Vr2=8.79v
+
 R=8.79v/12.3mA→
+
 R3=2.21v/12.3mA→180Ω
 
 26. Determine la corriente que el medidor de la figura lee en cada posición del interruptor calibrado
@@ -118,11 +136,15 @@ R3=2.21v/12.3mA→180Ω
 ![image](https://user-images.githubusercontent.com/84790127/171796684-5375f4c8-b5f1-47a1-86af-9fdbc4f25cdd.png)
 
 Corriente C=I=9v/151kΩ→596mA
-59.6mA                      
+
+59.6mA
+
 Corriente B=I=9v/56kΩ→16.1mA
+
                                                            Corriente A=I=9v/1kΩ→9mA 
 
 Fuentes de voltaje en serie
+
 28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
 
 Vt=12v-3v→Vt=9v
@@ -138,10 +160,15 @@ a) 15v-0.5v-1.5v-1v-3.2v-V2-2v→V2=6.8v
 ![image](https://user-images.githubusercontent.com/84790127/171797803-cfe2f364-bc68-40e3-9ca9-8ae5155d3bd8.png)
 
 R3=V/I→R3=1.2V/10mA→120 Ω
+
 V3=9-5.6-2.2→V3=1.2v
+
 R2=P/I^2 →R2=22mW/(10mA)^2 →220Ω
+
 V2=(10mA*220 Ω)=2.2v
+
 R1=5.6v/10mA→560Ω 
+
 V3=(10mA*560 Ω)=5.6v
 
 36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
@@ -149,8 +176,13 @@ V3=(10mA*560 Ω)=5.6v
 ![image](https://user-images.githubusercontent.com/84790127/171797933-fc21a1f3-505b-42b9-9443-f21fab7877c7.png)
 
 A)3.35mA
-v1=(3.35mA*1800Ω)=6.03v                              v2(3.35mA*1000Ω)=3.35v
-v3=(3.35mA*820Ω)=2.74v                            
+
+v1=(3.35mA*1800Ω)=6.03v
+
+v2(3.35mA*1000Ω)=3.35v
+
+v3=(3.35mA*820Ω)=2.74v  
+
 v4=(3.35mA*560Ω)=1.87v
 
 Divisores de voltaje
@@ -160,6 +192,7 @@ Divisores de voltaje
 ![image](https://user-images.githubusercontent.com/84790127/171798040-b0fc60bb-f66c-4e23-95bd-5bc6c0be65c6.png)
 
 a) V=(12/156)(56)→4.3v
+
 b) V=(8v/6.5kΩ)(5.5kΩ)→6.76v
 
 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura (b).
@@ -167,12 +200,14 @@ b) V=(8v/6.5kΩ)(5.5kΩ)→6.76v
 ![image](https://user-images.githubusercontent.com/84790127/171798165-e13ff8e4-73a1-4a2a-af21-89f0bf9e838e.png)
 
 a)  A-B→V=(15v/18.9kΩ)(5.6kΩ)→4.44v mínima
+
 a)A-Tierra→V=(15v/18.9kΩ)(18.9kΩ)→15v máxima
 
 
 CONCLUISIONES 
 
 Circuito en serie: La corriente que fluye por el circuito es la misma en el circuito completo y en cada dispositivo. El voltaje en cada dispositivo será distinto si la resistencia de estos es distinta. La suma de los voltajes de cada dispositivo es igual al voltaje de la fuente de alimentación.
+
 La suma de las resistencias del circuito, es igual a la resistencia total del circuito.
 - La corriente que fluye por el circuito es la misma en el circuito completo y en cada dispositivo.
 - El voltaje en cada dispositivo será distinto si la resistencia de estos es distinta.
@@ -220,6 +255,12 @@ LEY DE CORRIENTES DE KIRCHHOFF
 DIVISORES DE CORRIENTE 
 
 ![image](https://user-images.githubusercontent.com/84790127/171799057-457e6b4a-d5b5-4b33-bf45-3fa35a066ea3.png)
+
+FORMULAS 
+
+![image](https://user-images.githubusercontent.com/84790127/171804191-75e1e629-0ed3-451f-b41b-2a4a0996e501.png)
+
+![image](https://user-images.githubusercontent.com/84790127/171804268-fb026735-cec9-4d13-94be-ffc639ca49bc.png)
 
 EJERCICIOS 
 
